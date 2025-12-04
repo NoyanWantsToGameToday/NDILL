@@ -98,6 +98,16 @@ export default {
                             </li>
                         </ol>
                     </template>
+                    <h3>Record Submission Rules</h3>
+                    <p>
+                        The person to make it is the creator, and the person to macro it is the verifier.
+                    </p>
+                    <p>
+                        Anyone who submits a macro for a level after its been released, will be victors.
+                    </p>
+                    <p>
+                        Hitbox Multiplier, Noclip, No Mirror, Jump Hack, Show Hitboxes, Show Layout, Frozen Animations, Auto Kill, Force Platformer, Force Ice, Instant Complete, No Collision, Shipcopter, Startpos, Hide Player, Show Trajectory and Show Triggers is NOT allowed in record/level submissions.
+                    </p>
                     <h3>Level Submission Requirements</h3>
                     <p>
                         Levels have to have some basic building. (Grid blocks.)
