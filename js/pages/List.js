@@ -98,30 +98,30 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>Level Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        Levels have to have some basic building. (Grid blocks.)
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Levels must have a showcase. (60 FPS)
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        Levels must NOT pass 15 clicks per second.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Levels cannot have any "Rotate Gameplay" triggers.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        Levels have to be at least 45 seconds long.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        Click Between Frames will NOT be allowed as it messes up macros.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Silent versions of levels MUST be difficult enough to be considered different. Only buffing certain parts will result in the level not being accepted.
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        Collabs MUST contain building differences.
                     </p>
                 </div>
             </div>
